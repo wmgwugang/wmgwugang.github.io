@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "构建 RESTful 风格的 WCF 服务"
-date:   2017-01-11
+date:   2017-03-18
 categories: C#
 tags: [WCF, RESTful]
 ---
